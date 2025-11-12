@@ -1,0 +1,10 @@
+name = input('Enter name:')
+print(f"hello, welcome {name}")
+num1=int(input('Enter the first number: '))
+num2=int(input('Enter the second number: '))
+
+print(f'The sum of {num1} and {num2} is {num1+num2}')
+print(f'The diffrence of {num1} and {num2} is {num1-num2}')
+print(f'The product of {num1} and {num2} is {num1*num2}')
+print(f'The quotient of {num1} and {num2} is {num1/num2}')
+print(f'The remainder of {num1} and {num2} is {num1%num2}')
