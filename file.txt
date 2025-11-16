@@ -1,0 +1,16 @@
+Welcome to Python File Handling Practice!
+This file contains sample text for testing read and write operations.
+
+Topics Covered:
+- Opening files in Python
+- Reading files
+- Writing and appending to files
+- Working with file paths
+- Using 'with open()' context manager
+- Reading lines using read(), readline(), and readlines()
+
+Fun Facts:
+Python makes file handling simple and powerful.
+Always close your files or use 'with open()' to handle them safely.
+
+End of file.
